@@ -1,2 +1,2 @@
 # ShoolForum
-Forum for my school (zsgp.szkola.proszowki.pl/).
+Forum for my school (http://zsgp.szkola.proszowki.pl/).
